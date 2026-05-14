@@ -4,6 +4,7 @@
 # 파일
 .DS_Store
 *.env
+
 # *.db
 *.pdf
 *.pkl
@@ -28,7 +29,8 @@
 */corpus/*
 */mlruns/*
 working/
-
+my_env/
+myenv/
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
